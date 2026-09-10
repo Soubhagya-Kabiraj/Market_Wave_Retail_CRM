@@ -17,7 +17,7 @@
 
 ### Where AI Meets Smart Shopping. Ride the future of commerce.
 
-A modern Django-based Retail CRM platform designed to streamline customer management, product handling, order processing, and analytics through a clean and scalable interface.
+A modern Django-based Retail CRM platform designed to streamline customer management, product handling, order processing, and analytics through a clean and scalable interface..
 
 </div>
 
